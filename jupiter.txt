@@ -1,2 +1,4 @@
 Jupiter is another planet.
 Jupiter is orange.
+Jupiter is larger than the earth.
+The distance between jupiter is much larger

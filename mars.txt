@@ -2,3 +2,5 @@
 This is a planet Mars
 
 It is red
+
+It is smaller than the earth
